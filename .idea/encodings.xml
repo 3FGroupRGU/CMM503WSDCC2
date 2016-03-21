@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/._registration" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/check.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/connection.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/home.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/index.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/login.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/logout.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/register.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/style.css" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/submit.php" charset="UTF-8" />
+  </component>
+</project>
